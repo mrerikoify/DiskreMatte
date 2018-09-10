@@ -1,2 +1,2 @@
-DiskreMatteProg
-Assigment in discrete mathematics.
+DiskreMatteProg <br />
+Programs made in the course "discrete mathematics".
