@@ -1,6 +1,7 @@
 from random import *
 from time import *
-
+#Program that compares the time usage
+#of bolo-sort and insertion-sort
 seed()
 oldX = []
 count= 0
